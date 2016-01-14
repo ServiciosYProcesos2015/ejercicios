@@ -69,7 +69,7 @@ public class CarreraJusta {
             pistola.notifyAll();
         }
 
-        // Main finalizará cuando todos los threads hayan acabado
+        // Main finaliza antes de que acabe la carrera
     }
 }
 

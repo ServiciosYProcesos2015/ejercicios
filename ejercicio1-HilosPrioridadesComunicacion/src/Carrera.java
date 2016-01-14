@@ -42,7 +42,7 @@ public class Carrera {
         liebre.start();
         tortuga.start();
 
-        // Main finalizará cuando todos los threads hayan acabado
+        // Main finaliza antes de que acabe la carrera
     }
 }
 
