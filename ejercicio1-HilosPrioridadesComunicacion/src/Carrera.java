@@ -1,3 +1,9 @@
+/*
+ Realiza un programa en el que crees una clase llamada Animal y
+ tres objetos de dicha clase: Tortuga, liebre, guepardo. Asigna un hilo
+ a cada uno de ellos de forma que se ejecuten concurrentemente y  utiliza
+ la asignación de prioridades para establecer quién llegará el primero.
+ */
 
 
 public class Carrera {
